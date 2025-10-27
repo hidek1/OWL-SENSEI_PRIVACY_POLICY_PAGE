@@ -60,7 +60,7 @@
 プライバシーに関するご質問やご要望がございましたら、以下までお問い合わせください：
 
 - メール: fukuroudeveloper@gmail.com
-- お問い合わせフォーム: https://forms.gle/your-contact-form-id
+- お問い合わせフォーム: https://docs.google.com/forms/d/e/1FAIpQLScFgOPiXqK4fsEfR9FbAdyulIlAECZuOSaVt9Y1SHI70OBqvg/viewform?usp=header
 
 ## 10. プライバシーポリシーの変更
 
@@ -132,7 +132,7 @@ The free plan may display advertisements. Ads use Google AdMob and are subject t
 If you have questions or requests regarding privacy, please contact us at:
 
 - Email: fukuroudeveloper@gmail.com
-- Contact Form: https://forms.gle/your-contact-form-id
+- Contact Form: https://docs.google.com/forms/d/e/1FAIpQLScFgOPiXqK4fsEfR9FbAdyulIlAECZuOSaVt9Y1SHI70OBqvg/viewform?usp=header
 
 ## 10. Changes to Privacy Policy
 
