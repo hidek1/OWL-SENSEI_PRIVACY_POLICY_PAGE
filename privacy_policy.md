@@ -11,7 +11,7 @@
 ### 2.1 写真データ
 - お客様がアプリにアップロードした写真
 - 写真の説明を生成するためにのみ使用されます
-- 写真は説明生成後、履歴として保存されます（設定で履歴を削除可能）
+- 写真は説明生成後、履歴として保存されます（履歴一覧ページから削除可能）
 
 ### 2.2 デバイス情報
 - デバイスの種類、OSバージョン
@@ -39,7 +39,7 @@
 
 ## 5. データの保存と削除
 
-- 写真データは説明生成後、履歴として保存されます（設定で削除可能）
+- 写真データは説明生成後、履歴として保存されます（履歴一覧ページから削除可能）
 - 利用統計は匿名化された形で保存されます
 - アプリをアンインストールすると、関連データは削除されます
 
@@ -83,7 +83,7 @@
 ### 2.1 Photo Data
 - Photos uploaded to the app
 - Used only for generating explanations
-- Photos are saved as history after explanation generation (can be deleted in settings)
+- Photos are saved as history after explanation generation (can be deleted from history list page)
 
 ### 2.2 Device Information
 - Device type, OS version
@@ -111,7 +111,7 @@ We do not share your personal information with third parties except in the follo
 
 ## 5. Data Storage and Deletion
 
-- Photo data is saved as history after explanation generation (can be deleted in settings)
+- Photo data is saved as history after explanation generation (can be deleted from history list page)
 - Usage statistics are stored in anonymized form
 - Related data is deleted when the app is uninstalled
 
