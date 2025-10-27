@@ -11,7 +11,7 @@
 ### 2.1 写真データ
 - お客様がアプリにアップロードした写真
 - 写真の説明を生成するためにのみ使用されます
-- 写真は一時的に処理され、説明生成後は削除されます
+- 写真は説明生成後、履歴として保存されます（設定で履歴を削除可能）
 
 ### 2.2 デバイス情報
 - デバイスの種類、OSバージョン
@@ -39,7 +39,7 @@
 
 ## 5. データの保存と削除
 
-- 写真データは説明生成後、即座に削除されます
+- 写真データは説明生成後、履歴として保存されます（設定で削除可能）
 - 利用統計は匿名化された形で保存されます
 - アプリをアンインストールすると、関連データは削除されます
 
@@ -60,7 +60,7 @@
 プライバシーに関するご質問やご要望がございましたら、以下までお問い合わせください：
 
 - メール: fukuroudeveloper@gmail.com
-- お問い合わせフォーム: [アプリ内の設定画面からアクセス可能]
+- お問い合わせフォーム: https://forms.gle/your-contact-form-id
 
 ## 10. プライバシーポリシーの変更
 
@@ -83,7 +83,7 @@
 ### 2.1 Photo Data
 - Photos uploaded to the app
 - Used only for generating explanations
-- Photos are temporarily processed and deleted after explanation generation
+- Photos are saved as history after explanation generation (can be deleted in settings)
 
 ### 2.2 Device Information
 - Device type, OS version
@@ -111,7 +111,7 @@ We do not share your personal information with third parties except in the follo
 
 ## 5. Data Storage and Deletion
 
-- Photo data is immediately deleted after explanation generation
+- Photo data is saved as history after explanation generation (can be deleted in settings)
 - Usage statistics are stored in anonymized form
 - Related data is deleted when the app is uninstalled
 
@@ -132,7 +132,7 @@ The free plan may display advertisements. Ads use Google AdMob and are subject t
 If you have questions or requests regarding privacy, please contact us at:
 
 - Email: fukuroudeveloper@gmail.com
-- Contact Form: [Accessible from the app's settings screen]
+- Contact Form: https://forms.gle/your-contact-form-id
 
 ## 10. Changes to Privacy Policy
 
