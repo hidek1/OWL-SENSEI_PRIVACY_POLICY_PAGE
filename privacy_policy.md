@@ -22,6 +22,14 @@
 - プランの種類、利用状況
 - 決済情報（Google Play経由で処理され、当社では直接収集しません）
 
+### 2.4 AIサービスの利用
+写真の説明を生成するため、お客様がアップロードした写真は以下の外部AIサービスに送信されます：
+- **Google Gemini API**
+- **OpenAI API**
+送信された写真データは説明生成のためにのみ使用され、生成完了後は各サービスのポリシーに従って処理されます。各サービスのプライバシーポリシーは以下をご確認ください：
+- [Googleプライバシーポリシー](https://policies.google.com/privacy)
+- [OpenAIプライバシーポリシー](https://openai.com/privacy/)
+
 ## 3. 情報の使用目的
 
 - 写真の説明生成（AI技術を使用）
@@ -93,6 +101,14 @@
 ### 2.3 Subscription Information
 - Plan type, usage status
 - Payment information (processed through Google Play, not directly collected by us)
+
+### 2.4 AI Service Usage
+To generate photo explanations, photos you upload are sent to the following external AI services:
+- **Google Gemini API**
+- **OpenAI API**
+Uploaded photo data is used only for generating explanations and is processed according to each service's policies after generation is complete. Please refer to each service's privacy policy:
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [OpenAI Privacy Policy](https://openai.com/privacy/)
 
 ## 3. How We Use Information
 
